@@ -1184,9 +1184,11 @@ header.sticky {
     color: #222;
 }
 
-#faq-qua .faq-q span {
+#faq-qua .faq-q {
     font-weight: 600;
-    font-size: 19px;
+    font-size: 18px;
+}
+#faq-qua .faq-q span {
     color: #008374;
 }
 
